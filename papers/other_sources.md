@@ -7,6 +7,7 @@
 * https://github.com/microsoft/ArxivFormula - Doc layout, includes both by hand and machine ones
 * https://github.com/amao0o0/awesome-AI-Math-Datasets - collection of links to different datasets
 * https://huggingface.co/datasets/OleehyO/latex-formulas - for pix2tex
+* https://huggingface.co/datasets/hoang-quoc-trung/fusion-image-to-latex-datasets - for pix2tex too
 * https://huggingface.co/datasets/PleIAs/Math-PDF - Math PDFs
 
 
