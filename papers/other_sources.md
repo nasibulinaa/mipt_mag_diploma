@@ -29,3 +29,4 @@
 
 # Other
 * https://www.kaggle.com/code/mikhailshkarubski/math-formula-detection-yolov8 - example of training YOLO for formulas
+* https://github.com/opendatalab/PDF-Extract-Kit/pull/106 - some more work on recognition. It has a bit other pipeline.
