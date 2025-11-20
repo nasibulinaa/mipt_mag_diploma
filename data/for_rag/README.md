@@ -13,8 +13,8 @@ Questions:
 * What is `∧i(S) · det(S∨) = ∧k−i(S∨)`
 
 How we calculate right result:
-- If document found, +1. If it also shows many wrong documents, +0;
-- If document found, but text is correct - ask with "Show needed document". If document is correct, +0.5;
+- If target document found, +1. If it also shows wrong documents or found only relative document, + 0.5;
+- If document not found, but text is correct - ask with "Show needed document". If document is correct, +0.5;
 - Otherwise, 0.
 
 Max score: 5
