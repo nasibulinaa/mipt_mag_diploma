@@ -1,2 +1,4 @@
 .venv-*
 /NTCIR_DATA_CONTAINER
+.venv
+TensorRT-10.5.0.18
