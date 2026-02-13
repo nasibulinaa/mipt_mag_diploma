@@ -4,6 +4,10 @@ Also, other math documents may be picked from [here](https://huggingface.co/data
 
 Target document `W1605366104.pdf` was picked [here](https://huggingface.co/datasets/PleIAs/Math-PDF/blob/main/math_pdf_tars/openalex_math_pdf_tar_31.tar). Document with relative text `QKlectures(MSJ23).pdf` was found [here](https://personal.math.vt.edu/lmihalce/QKlectures(MSJ23).pdf).
 
+Documents are located at directory `for_rag`.
+
+Document for test (search, directory - `for_test`): https://franksottile.github.io/research/pdf/K_Pieri.pdf.
+
 Questions:
 
 * Give information about K theory
@@ -18,3 +22,4 @@ How we calculate right result:
 - Otherwise, 0.
 
 Max score: 5
+
